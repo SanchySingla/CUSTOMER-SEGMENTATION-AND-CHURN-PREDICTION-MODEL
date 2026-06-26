@@ -9,7 +9,7 @@ This repository contains an exploratory data analysis (EDA) notebook investigati
 
 # Dataset Overview
 
-The analysis uses the Telco_customer_churn.xlsx dataset, which consists of 7,043 rows and 33 columns**. 
+The analysis uses the Telco_customer_churn.xlsx IBM dataset, which consists of 7,043 rows and 33 columns**. 
 
 # Class Distribution
 The target variable 'Churn Label' shows a noticeable class imbalance:
