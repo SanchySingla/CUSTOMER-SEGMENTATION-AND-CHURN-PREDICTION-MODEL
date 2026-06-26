@@ -29,10 +29,10 @@ Yes--(Churned)--1,869--26.5%
 
 The analysis is performed in Python 3 using a standard data science environment. The primary libraries utilized are:
 
-* **Data Manipulation: `pandas`, `numpy`
-* **Data Visualization:`matplotlib`, `seaborn`
-* **Machine Learning Preparation: `scikit-learn`
-* **Excel Engine:`openpyxl` (required for parsing `.xlsx` files in Pandas)
+* Data Manipulation: `pandas`, `numpy`
+* Data Visualization:`matplotlib`, `seaborn`
+* Machine Learning Preparation: `scikit-learn`
+* Excel Engine:`openpyxl` (required for parsing `.xlsx` files in Pandas)
 
 ---
 
