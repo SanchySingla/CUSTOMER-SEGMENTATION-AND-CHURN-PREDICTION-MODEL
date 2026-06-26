@@ -15,7 +15,7 @@ The analysis uses the Telco_customer_churn.xlsx dataset, which consists of 7,043
 The target variable 'Churn Label' shows a noticeable class imbalance:
 
 Churn Label--Customer Count--Approximate Percentage
-No--(Retained)--5,174--73.5%
+No--(Retained)--5,174--73.5%|||
 Yes--(Churned)--1,869--26.5%
 
 # Key Features Analyzed
